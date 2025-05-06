@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/pypi/v/anduril-lattice-sdk.svg)](https://pypi.org/project/anduril-lattice-sdk)
 
-The official [Anduril](https://www.anduril.com/) Lattice SDK for Python, forked by Cydonis Heavy Industries, (C.H.I), Ltd.
+The official [Anduril](https://www.anduril.com/) Lattice SDK for Python, forked by [Cydonis Heavy Industries, (C.H.I), Ltd.](https://www.cydonis.co.uk)
 
 ## Documentation
 
