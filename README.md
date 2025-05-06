@@ -8,6 +8,11 @@ The official [Anduril](https://www.anduril.com/) Lattice SDK for Python, forked 
 
 See the documentation for [Lattice Python SDK](https://docs.anduril.com/guide/sdks/python).
 
+> [!WARNING]  
+>
+> Ethics: May cause and assist in genocides and omnicidal behaviour(s).
+> 
+
 ## Requirements
 
 To use the SDK please ensure you have the following installed:
