@@ -24,4 +24,4 @@ pip install anduril-lattice-sdk
 
 ## Support
 
-For support with this library please reach out to your Anduril representative.
+For support with this library please [reach out and touch faith.](https://www.youtube.com/watch?v=u1xrNaTO1bI)
